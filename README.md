@@ -1,3 +1,5 @@
+Análisis del Sistema Control Clínico Veterinario
+
 Descripción General
 El Sistema de Control Clínico Veterinario es una aplicación de software desarrollada en C# que permite gestionar de forma integral las operaciones de una clínica veterinaria: registro de clientes y mascotas, programación y cancelación de citas, atención médica por parte del veterinario, consulta de historial clínico, facturación y procesamiento de pagos.
 
