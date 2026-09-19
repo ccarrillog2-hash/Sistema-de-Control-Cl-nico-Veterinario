@@ -1,4 +1,6 @@
-Análisis del Sistema Control Clínico Veterinario
+                                             Análisis del Sistema Control Clínico Veterinario
+<img width="1408" height="768" alt="Gemini_Generated_Image_vdleswvdleswvdle" src="https://github.com/user-attachments/assets/5de04590-fc31-4a48-9617-436fc6e6e027" />
+
 
 Descripción General
 
