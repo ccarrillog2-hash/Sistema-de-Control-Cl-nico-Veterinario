@@ -1,0 +1,11 @@
+#BlueJ class context
+#Sat Sep 19 00:23:44 CST 2026
+comment0.target=Veterinario
+comment1.params=nombre dpi telefono email codigo especialidad
+comment1.target=Veterinario(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)
+comment2.params=c
+comment2.target=void atenderCita(Cita)
+comment3.params=c
+comment3.target=void registrarConsulta(Consulta)
+comment4.target=java.lang.String getEspecialidad()
+numComments=5

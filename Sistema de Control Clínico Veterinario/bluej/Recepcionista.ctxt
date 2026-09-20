@@ -1,0 +1,14 @@
+#BlueJ class context
+#Sat Sep 19 00:20:09 CST 2026
+comment0.target=Recepcionista
+comment1.params=nombre dpi telefono email codigo
+comment1.target=Recepcionista(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)
+comment2.params=c
+comment2.target=void registrarCliente(Cliente)
+comment3.params=m
+comment3.target=void registrarMascota(Mascota)
+comment4.params=c
+comment4.target=void crearCita(Cita)
+comment5.params=c total
+comment5.target=Factura generarFactura(Cliente, double)
+numComments=6

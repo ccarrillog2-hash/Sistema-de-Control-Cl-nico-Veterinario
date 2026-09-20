@@ -1,0 +1,7 @@
+#BlueJ class context
+#Sat Sep 19 00:26:40 CST 2026
+comment0.target=Receta
+comment1.params=id c indicaciones
+comment1.target=Receta(int, Consulta, java.lang.String)
+comment2.target=void generarPDF()
+numComments=3

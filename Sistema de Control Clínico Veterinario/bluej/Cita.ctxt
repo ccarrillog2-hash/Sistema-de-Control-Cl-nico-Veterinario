@@ -1,0 +1,12 @@
+#BlueJ class context
+#Sat Sep 19 00:23:50 CST 2026
+comment0.target=Cita
+comment1.params=id fecha hora motivo c m v
+comment1.target=Cita(int, java.util.Date, java.lang.String, java.lang.String, Cliente, Mascota, Veterinario)
+comment2.target=void confirmar()
+comment3.target=void cancelar()
+comment4.params=estado
+comment4.target=void setEstado(java.lang.String)
+comment5.target=java.lang.String getEstado()
+comment6.target=java.util.Date getFecha()
+numComments=7

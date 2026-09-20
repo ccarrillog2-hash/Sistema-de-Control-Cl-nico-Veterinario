@@ -1,0 +1,22 @@
+#BlueJ class context
+#Sat Sep 19 04:06:51 CST 2026
+comment0.target=HistorialClinico
+comment1.target=HistorialClinico()
+comment10.target=Mascota getMascota()
+comment11.params=m
+comment11.target=void setMascota(Mascota)
+comment12.target=java.util.Date getFechaCreacion()
+comment13.target=java.util.Date getFechaUltimaActualizacion()
+comment14.target=java.lang.String toString()
+comment2.params=id mascota
+comment2.target=HistorialClinico(int, Mascota)
+comment3.params=c
+comment3.target=void agregarConsulta(Consulta)
+comment4.target=void consultarHistorial()
+comment5.target=void actualizarHistorial()
+comment6.params=idConsulta
+comment6.target=Consulta buscarConsulta(int)
+comment7.target=int getTotalConsultas()
+comment8.target=java.util.List getConsultas()
+comment9.target=int getIdHistorial()
+numComments=15

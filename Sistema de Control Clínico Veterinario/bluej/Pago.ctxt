@@ -1,0 +1,12 @@
+#BlueJ class context
+#Sat Sep 19 00:20:09 CST 2026
+comment0.target=Pago
+comment1.params=id monto metodo
+comment1.target=Pago(int, double, java.lang.String)
+comment2.target=boolean procesarPago()
+comment3.target=double getMonto()
+comment4.target=java.lang.String getMetodoPago()
+comment5.params=estado
+comment5.target=void setEstado(java.lang.String)
+comment6.target=java.lang.String getEstado()
+numComments=7

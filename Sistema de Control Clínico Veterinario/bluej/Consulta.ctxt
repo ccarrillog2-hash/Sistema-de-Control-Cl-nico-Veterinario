@@ -1,0 +1,13 @@
+#BlueJ class context
+#Sat Sep 19 00:20:09 CST 2026
+comment0.target=Consulta
+comment1.params=id motivo
+comment1.target=Consulta(int, java.lang.String)
+comment2.params=d
+comment2.target=void registrarDiagnostico(Diagnostico)
+comment3.params=t
+comment3.target=void registrarTratamiento(Tratamiento)
+comment4.target=int getIdConsulta()
+comment5.target=Diagnostico getDiagnostico()
+comment6.target=Tratamiento getTratamiento()
+numComments=7

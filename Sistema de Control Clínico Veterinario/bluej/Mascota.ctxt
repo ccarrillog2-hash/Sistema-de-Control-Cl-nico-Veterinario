@@ -1,0 +1,10 @@
+#BlueJ class context
+#Sat Sep 19 00:19:43 CST 2026
+comment0.target=Mascota
+comment1.params=nombre especie raza peso
+comment1.target=Mascota(java.lang.String, java.lang.String, java.lang.String, double)
+comment2.target=java.lang.String getNombre()
+comment3.target=java.lang.String getEspecie()
+comment4.target=java.lang.String getRaza()
+comment5.target=double getPeso()
+numComments=6

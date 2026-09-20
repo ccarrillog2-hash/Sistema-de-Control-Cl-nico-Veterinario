@@ -1,0 +1,14 @@
+#BlueJ class context
+#Sat Sep 19 00:20:09 CST 2026
+comment0.target=Factura
+comment1.params=c subtotal
+comment1.target=Factura(Cliente, double)
+comment2.target=double calcularTotal()
+comment3.params=porcentaje
+comment3.target=void aplicarDescuento(double)
+comment4.params=p
+comment4.target=void agregarPago(Pago)
+comment5.target=double totalPagado()
+comment6.target=java.lang.String getEstado()
+comment7.target=double getTotal()
+numComments=8

@@ -1,0 +1,10 @@
+#BlueJ class context
+#Sat Sep 19 11:31:08 CST 2026
+comment0.target=Cliente
+comment1.params=nombre dpi telefono email nit
+comment1.target=Cliente(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)
+comment2.params=m
+comment2.target=void agregarMascota(Mascota)
+comment3.target=java.util.List getMascotas()
+comment4.target=java.lang.String getNit()
+numComments=5

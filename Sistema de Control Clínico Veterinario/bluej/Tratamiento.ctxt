@@ -1,0 +1,9 @@
+#BlueJ class context
+#Sat Sep 19 00:32:04 CST 2026
+comment0.target=Tratamiento
+comment1.params=id descripcion duracion
+comment1.target=Tratamiento(int, java.lang.String, int)
+comment2.params=m
+comment2.target=void agregarMedicamento(Medicamento)
+comment3.target=java.util.List getMedicamentos()
+numComments=4
